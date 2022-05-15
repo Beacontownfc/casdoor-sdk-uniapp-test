@@ -20,7 +20,6 @@ export default {
     if (app.version.charAt(0) === '2') {
       app.prototype.getSigninUrl = () => {
         return CasdoorSDK.getSigninUrl();
-        console.log('this is for test')
       }
 
       app.prototype.getSignupUrl = (enablePassword) => {
