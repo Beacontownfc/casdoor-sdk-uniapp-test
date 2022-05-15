@@ -1,6 +1,6 @@
 {
   "name": "casdoor-uniapp-sdk-test",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "uni-app client SDK for Casdoor",
   "main": "index.js",
   "repository": "https://github.com/Beacontownfc/casdoor-sdk-uniapp-test.git",
