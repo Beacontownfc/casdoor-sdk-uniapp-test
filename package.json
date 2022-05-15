@@ -1,9 +1,9 @@
 {
-  "name": "casdoor-uniapp-sdk-t",
+  "name": "casdoor-uniapp-sdk",
   "version": "1.0.0",
   "description": "uni-app client SDK for Casdoor",
   "main": "index.js",
-  "repository": "https://github.com/Beacontownfc/casdoor-sdk-uniapp-test.git",
+  "repository": "https://github.com/casdoor/casdoor-uniapp-sdk.git",
   "author": "Fancong Li <1963697267@qq.com>",
   "license": "Apache-2.0",
   "dependencies": {
